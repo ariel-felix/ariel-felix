@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋 </h1>
-<h3 align="center">Passionate about science and data analysis.</h3>
+<h3 align="center">Passionate about data science and analytics.</h3>
 
 - 🎓 I’m a Systems Analysis and Development graduate from Anhembi Morumbi University.
   
